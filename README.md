@@ -83,7 +83,7 @@ Below is the domo for created application
 ## Live demo
 Below is the link for live demo
 
-https://mobile-price-analysis.onrender.com
+[https://car-price-prediction-vhnn.onrender.com/](https://car-price-prediction-vhnn.onrender.com/)
 ## Learning Objective
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)
 
@@ -118,14 +118,11 @@ if __name__=='__main__':
 Now we can download the dataset on Kaggle and make analysis for it. Kaggle is the one of the largest website have to provide the datasets on verious domain.
 In the more information about the Kaggle plese [Click Here](https://www.kaggle.com/)
 
-Below link is to dataset on kaggle
-
-https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 ## Acknowledgements
 
- - [Awesome HTML Templates](https://github.com/Ganeshdhanawade/Mobile-price-analysis/commit/79213690628738dcd2f12d9bccf38dae35de1725)
- - [Awesome Flask file](https://github.com/matiassingers/awesome-readme)
- - [Project Details](https://github.com/Ganeshdhanawade/Mobile-price-analysis/blob/main/Mobile%20Price%20Classification_detailed.docx)
+ - [Awesome HTML Templates](templates/index.html)
+ - [Awesome Flask file](app.py)
+ - [Project Details]([https://github.com/Ganeshdhanawade/Mobile-price-analysis/blob/main/Mobile%20Price%20Classification_detailed.docx](https://github.com/Ganeshdhanawade/Car_price_prediction.git))
 
 
 ## Environment Variables
@@ -152,14 +149,6 @@ Install my-project with npm
 
 ## 🚀 About Me
 I am Completed post graduation in statistics with verious takenincal skills and 2+ year of experiance in data science domain. This project i create on self learning.
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Assistant Proffesor in KVM,wai
-
-🧠 I'm currently learning Deep learning and NLP.
-
-👯‍♀️ I'm looking to Job Change toword the data science.
 
 
 ## Feedback
